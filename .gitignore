@@ -1,0 +1,14 @@
+# Virtual Environment
+ml_venv/
+__pycache__/
+
+# Data (Datasets should be downloaded, not uploaded to GitHub)
+*.csv
+*.data
+
+# Models and Logs
+*.pkl
+*.log
+
+# System files
+.DS_Store
